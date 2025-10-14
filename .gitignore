@@ -2,19 +2,19 @@
 PACS/
 
 # Results
-DANN_Results/
+dann_results/
+cdan_results/
 ERM_Results/
+dan_results/
 
 # Repositories
 DomainBed/
 sam/
 
 # Saved Models
-erm_resnet.pth
-best_erm_resnet.pth
-
-sam_resnet.pth
-best_sam_resnet.pth
+Task2_Models/
 
 ERM_Model/
 DANN_Model/
+CDAN_Model/
+DAN_Model/
