@@ -1,20 +1,24 @@
 # Dataset
 PACS/
 
-# # Results (I need to push these results as well)
-# dann_results/
-# cdan_results/
-# ERM_Results/
-# dan_results/
+# Results (I need to push these results as well)
+dann_results/
+cdan_results/
+ERM_Results/
+dan_results/
 
 # Repositories
 DomainBed/
 sam/
 
-# Saved Models
+# Saved Models (Pushing task 1 models here)
 Task2_Models/
 
 ERM_Model/
 DANN_Model/
 CDAN_Model/
 DAN_Model/
+
+resnet50_pseudo_finetuned_art.pth
+
+*.pth
