@@ -1,11 +1,11 @@
 # Dataset
 PACS/
 
-# Results
-dann_results/
-cdan_results/
-ERM_Results/
-dan_results/
+# # Results (I need to push these results as well)
+# dann_results/
+# cdan_results/
+# ERM_Results/
+# dan_results/
 
 # Repositories
 DomainBed/
